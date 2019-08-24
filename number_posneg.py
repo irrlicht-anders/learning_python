@@ -1,6 +1,6 @@
 # Program checks wether the number is negative
 # or not and displays an approbiate message
-------------------------------------------------
+# ------------------------------------------------
 # added additional line whicht checks wether the
 # input is zero OR negative
 
